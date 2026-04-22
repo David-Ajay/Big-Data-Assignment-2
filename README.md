@@ -151,7 +151,7 @@ This project demonstrates how PySpark can be used for scalable machine learning 
 
 ## 👨‍💻 Author
 
-- **Name:** V.Sanjeev Manvith 
+- **Name:** Nalla D Ajay  
 - **Course:** Big Data Analytics  
 - **Institution:** Chaitanya Bharathi Institute Of Technology
 - **Submitted To:** Yenigalla Pallavi
